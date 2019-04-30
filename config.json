@@ -1,0 +1,13 @@
+{
+    "pro": true,
+    "babel": {
+      "presets": [
+        "react-app"
+      ]
+    },
+    "env": {
+      "params": {
+        "env": "BABEL_ENV=test"
+      }
+    }
+  }
